@@ -1,5 +1,5 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>🔭 I’m currently a Computer Science student  <br><br>🌱 I’m currently learning Cloud Computing and Python  <br><br>👯 I’m looking to collaborate on interesting projects  <br><br>⚡ Fun fact: I enjoy solving problems and exploring open source on GitHub
+#  About Me:
+##  About Me<br><br> I’m currently a Computer Science student  <br><br> I’m currently learning Cloud Computing and Python  <br><br> I’m looking to collaborate on interesting projects  <br><br> Fun fact: I enjoy solving problems and exploring open source on GitHub
 
 
 ## 🌐 Socials:
