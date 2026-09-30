@@ -12,7 +12,7 @@ Hi, I'm **Saahil Khan Mehar (Saahil Khan)** 👋
 - 📫 Contact: Saahilkhanmehar26@gmail.com
 - 🌐 Portfolio: https://saahilkhan17.github.io/
 - 💼 LinkedIn: https://www.linkedin.com/in/saahil-khan-mehar
-- 📸 Instagram: https://instagram.com/_saahil_khan_
+- 📸 Instagram: https://instagram.com/saahilk_han
 - 🧑‍💻 GitHub: https://github.com/saahilkhan17
 
 **Keywords:** Saahil Khan, Saahil Khan Mehar, saahilkhan17, Saahil Khan GitHub, Saahil Khan Cloud Computing, Saahil Khan Python Developer
@@ -20,7 +20,7 @@ Hi, I'm **Saahil Khan Mehar (Saahil Khan)** 👋
 ## 🌐 Connect with Saahil Khan
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saahil-khan-mehar)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_saahil_khan_)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saahilk_han)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Saahilkhanmehar26@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://saahilkhan17.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/saahilkhan17)
